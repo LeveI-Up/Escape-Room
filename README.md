@@ -6,7 +6,8 @@
   
   ![esc](https://user-images.githubusercontent.com/20986238/138876402-71ab6f2c-69ec-420e-9b07-6314e454e3f8.jpg)
 
-
+לפירוט המלא יש ללחוץ [כאן](https://github.com/LeveI-Up/The-Lost-Continent/blob/main/formal-elements.md)
+  
 המשחק מיועד לפלטפורמת המחשב, עם שימוש בציוד VR על מנת למקסם את ההנאה.
   
   </div>
